@@ -12,7 +12,7 @@ public class UserView  extends JFrame {
     private JLabel info;
     private UserController userController;
 
-    public UserView() throws HeadlessException {
+    public UserView()  {
     }
 
     public UserView(UserController userController) {
